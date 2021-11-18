@@ -62,7 +62,7 @@
   * Naive Bayes Classfier
   * Linear Regreesion
  ## ภาคปฏิบัติ (Google Colab)
-* บทที่ 2 Data101(Chapter2)
+* บทที่ 2 [Data101(Chapter2)](https://github.com/moneypitak/DWDM21/blob/main/Data101(Chapter2).ipynb)
   * ไฟล์ .csv (cav คือ comma separated values) เป็นไฟล์หลักที่เราได้ใช้เรียนกันในวิชานี้
   * Basic Python
   * Casting int () float () str ()
@@ -85,12 +85,12 @@
   * ลักษณะตัวอย่าง (ไม่มี input และ output)
   * ลักษณะของ input (พารามิเตอร์)
   * Quiz 2
-* บทที่ 2 Data102_(Chapter2)
+* บทที่ 2 [Data102_(Chapter2)](https://github.com/moneypitak/DWDM21/blob/main/Data102(Chapter2).ipynb)
   * Nan = not a Number (ช่องว่าง)
   * คำสั่ง .head() .tail()
   * Box plot
   * Time Series Plot
-* บทที่ 3 Data_Preprocessing_(Chapter_3)
+* บทที่ 3 [Data_Preprocessing_(Chapter_3)](https://github.com/moneypitak/DWDM21/blob/main/Data_Preprocessing_(Chapter3).ipynb)
   * Meta Data (Data ที่ใช้อธิบาย Data)
   * ชี้ข้อมูลในตาราง
   * ชี้แบบ .iloc[] (มองข้อมูลแบบ matrix)
@@ -120,13 +120,13 @@
   * การบ้าน + Quiz
   * save ตารางเอาไปใช้ที่อื่น
   * การสร้างตาราง
-* บทที่ 6 Chapter_6_Association_Rules
+* บทที่ 6 [Chapter_6_Association_Rules](https://github.com/moneypitak/DWDM21/blob/main/Chapter6_Association_Rules.ipynb)
   * ลบ records ที่ถูก cancel ออกไป
   * การบ้านครั้งที่ 13 วาดกราฟสรุปจำนวน items และ ยอดขายของแต่ละประเทศ
   * เตรียม Data สำหรับ (Fequence Pattern) Association Rules
   * Apriori
   * Quiz 7
-* บทที่ 7 Chapter7_Classification_(Decision_Tree)
+* บทที่ 7 [Chapter7_Classification_(Decision_Tree)](https://github.com/moneypitak/DWDM21/blob/main/Chapter_7_Classification_(Decision_Tree).ipynb)
   * Load Data
   * train (ฝึกสอนตัวแบบ)
   * plot tree
@@ -138,7 +138,7 @@
   * Train - Test
   * Train - Validation
   * การบ้านครั้งที่ 16
-* บทที่ 7 Chap7_Classification_(KNN_NN)
+* บทที่ 7 [Chap7_Classification_(KNN_NN)](https://github.com/moneypitak/DWDM21/blob/main/Chap7_Classification_(KNN_NN).ipynb)
   * Load data
   * Split Data
   * Train Model
@@ -150,7 +150,7 @@
   * Train - Test
   * ANN 2
   * ANN 3
-* บทที่ 7 Chapter_7_Classification_(Evaluation)
+* บทที่ 7 [Chapter_7_Classification_(Evaluation)](https://github.com/moneypitak/DWDM21/blob/main/Chap7_Classification_(Evaluation).ipynb)
   * Load data
   * แบ่ง data
   * สร้าง model ทำนาย
