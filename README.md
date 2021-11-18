@@ -39,7 +39,7 @@
   * การสร้างแบบจำลองแนวคิดของ Data Warehousing ว่ามีแบบไหนบ้าง แต่ละแบบเป็นอย่างไร
   * ลักษณะข้อมูลในหลายมิติเป็นอย่างไร
   * การใช้ data warehouse ทั้งหมด 3 ประเภท
-* บทที่ 5 [Data Cube Technology]
+* บทที่ 5 [Data Cube Technology](https://github.com/moneypitak/DWDM21/blob/main/Chap%205.pdf)
   * ความหมาย
   * Besic Concepts
   * Efficient Pattern Mining Methods
