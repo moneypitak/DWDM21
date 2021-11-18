@@ -51,7 +51,7 @@
   * The Apriori Algorihm
   * ตัวอย่าง The Apriori Algorihm
 * บทที่ 7 [Advanced Frequent Pattern Minning](https://github.com/moneypitak/DWDM21/blob/main/Chap%207.pdf)
-* บทที่ 8 [Classification:Basic Concepts]
+* บทที่ 8 [Classification:Basic Concepts](https://github.com/moneypitak/DWDM21/blob/main/Chap%208.pdf)
   * ลักษณะการสร้างโมเดลแบบมีผู้สอน
   * ลักษณะการสร้างโมเดลแบบไม่มีผู้สอน
   * การทำนายปัญหา ระหว่าง Classification กับ การใช้ทำนายตัวเลข
