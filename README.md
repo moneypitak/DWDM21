@@ -220,4 +220,4 @@
   * Neural Network
   * วาดกราฟต้นไม้
   * Visulization
-* [Slide Project]
+* [Slide Project](https://github.com/moneypitak/DWDM21/blob/main/Silde%20of%20group.pdf)
