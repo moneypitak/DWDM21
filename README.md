@@ -16,23 +16,16 @@
 
 #สารบัญเนื้อหา
 
-* บทที่1 [Introduction]
+* บทที่1 [Introduction](https://github.com/moneypitak/DWDM21/blob/main/HW1.pdf)
   * Data Warehouse คืออะไร
-  * Data Mining คืออะไร
-  * ทำไมต้องทำ Data Mining
-  * ตัวอย่างข้อมูล
-  * การเรียกชื่ออื่น ๆ
-  * ลักษณะภาพรวม
-  * ขั้นตอนการทำข้อมูล
-  * หัวข้อที่จะเรียน
-* บทที่ 2 [Getting to Know Your Data]
-  * ลักษณะภาพว่าแต่ละมิติแตกต่างกันอย่างไร
+  * Data Mining คืออะไรส่วนต่างๆของ Data 
+* บทที่ 2 [Getting to Know Your Data](https://github.com/moneypitak/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89-2.1.pdf)
   * ขนาดของข้อมูล
   * ชนิดของข้อมูล
   * คุณสมบัติ
   * ลักษณะสำคัญของข้อมูล
   * ข้อมูลที่เป็นตัวเลข
-* บทที่ 3 Data Preprocessing
+* บทที่ 3 Data [Preprocessing]
   * Data Cleaning คืออะไร
   * Data Integration คืออะไร
   * Data Reduction and Tranformation คืออะไร
