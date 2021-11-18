@@ -50,7 +50,7 @@
   * การหาค่าต่าง ๆ ของ K-Itemsets
   * The Apriori Algorihm
   * ตัวอย่าง The Apriori Algorihm
-* บทที่ 7 [Advanced Frequent Pattern Minning]
+* บทที่ 7 [Advanced Frequent Pattern Minning](https://github.com/moneypitak/DWDM21/blob/main/Chap%207.pdf)
 * บทที่ 8 [Classification:Basic Concepts]
   * ลักษณะการสร้างโมเดลแบบมีผู้สอน
   * ลักษณะการสร้างโมเดลแบบไม่มีผู้สอน
