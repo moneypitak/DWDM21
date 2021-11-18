@@ -25,7 +25,7 @@
   * คุณสมบัติ
   * ลักษณะสำคัญของข้อมูล
   * ข้อมูลที่เป็นตัวเลข
-* บทที่ 3 Data [Preprocessing]
+* บทที่ 3 Data [Preprocessing](https://github.com/moneypitak/DWDM21/blob/main/Chap%203.pdf)
   * Data Cleaning คืออะไร
   * Data Integration คืออะไร
   * Data Reduction and Tranformation คืออะไร
