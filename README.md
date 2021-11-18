@@ -43,7 +43,7 @@
   * ความหมาย
   * Besic Concepts
   * Efficient Pattern Mining Methods
-* บทที่ 6 [Mining Frequent Patterns, Association and Correlations:Basic Concepts and Methods]
+* บทที่ 6 [Mining Frequent Patterns, Association and Correlations:Basic Concepts and Methods](https://github.com/moneypitak/DWDM21/blob/main/Chap6.pdf)
   * Basic Concepts
   * Patterns หมายถึงอะไร ทำไมมันถึงสำคัญ
   * ตัวอย่าง K-Itemsets
