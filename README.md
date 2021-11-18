@@ -30,7 +30,7 @@
   * Data Integration คืออะไร
   * Data Reduction and Tranformation คืออะไร
   * Dimensionality Reduction คืออะไร
-* บทที่ 4 Data [Warehousing and On-line Anaalytical Processing]
+* บทที่ 4 Data [Warehousing and On-line Anaalytical Processing](https://github.com/moneypitak/DWDM21/blob/main/Chap%204.pdf)
   * Data Warehousing คืออะไร
 *OLTP & OLAP
   * ทำไมถึงต้องแยก Data Warehousing
