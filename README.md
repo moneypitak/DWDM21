@@ -193,7 +193,7 @@
   * การบ้านครั้งที่ 11
   * Distance of Binary Value
 * สอบมิดเทอม [Mini_Exam](https://github.com/moneypitak/DWDM21/blob/main/MiniExam.ipynb)
-* [FinalProject]
+* [FinalProject](https://github.com/moneypitak/DWDM21/blob/main/Project_Group.ipynb)
   * การนำเข้าข้อมูล , แหล่งที่มาข้อมูล
   * ดูว่าข้อมูลมี data missing
   * สรุปข้อมูลเป็นรายคอลลัมม์ว่ามี missing
