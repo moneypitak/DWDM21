@@ -163,7 +163,7 @@
   * สร้าง model ทำนาย
   * Train - Test
   * Evalution
-* บทที่ 8 Chap_8_Clustering
+* บทที่ 8 [Chap_8_Clustering](https://github.com/moneypitak/DWDM21/blob/main/Chap8Clustering.ipynb)
   * K-means
   * Generat Data
   * Explole data
@@ -172,9 +172,7 @@
   * จัดกลุ่มสีให้เหลือ 16 สี
   * ใช้ centroid เป็นตัวแทนของสี
   * แทนสีคืนลงไป
-  * Hierachical Clustering
-  * Clustering Evaluation
-* Data Visualization [Data_Visualization]
+* Data Visualization [Data_Visualization](https://github.com/moneypitak/DWDM21/blob/main/Data_Visualization.ipynb)
   * Visuliazation
   * Scatter plot
   * Plot
@@ -182,7 +180,7 @@
   * Bar chart
   * Stacked Barchart
   * Histrogram
-* Distance Numpy [Distance_Numpy]
+* Distance Numpy [Distance_Numpy](https://github.com/moneypitak/DWDM21/blob/main/Distance_Numpy.ipynb)
   * Numpy Array
   * สร้าง numpy array
   * สร้าง matrix เริ่มต้น (zeros,ones)
@@ -201,7 +199,7 @@
   * Quiz 6
   * การบ้านครั้งที่ 11
   * Distance of Binary Value
-* สอบมิดเทอม [Mini_Exam]
+* สอบมิดเทอม [Mini_Exam](https://github.com/moneypitak/DWDM21/blob/main/MiniExam.ipynb)
 * [FinalProject]
   * การนำเข้าข้อมูล , แหล่งที่มาข้อมูล
   * ดูว่าข้อมูลมี data missing
